@@ -1,0 +1,9 @@
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\bin\Debug\GeodeticCoordinatesTransform.exe
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\bin\Debug\GeodeticCoordinatesTransform.pdb
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\obj\x86\Debug\GeodeticCoordinatesTransform.Form1.resources
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\obj\x86\Debug\GeodeticCoordinatesTransform.Properties.Resources.resources
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\obj\x86\Debug\GeodeticCoordinatesTransform.csproj.GenerateResource.Cache
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\obj\x86\Debug\GeodeticCoordinatesTransform.exe
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\obj\x86\Debug\GeodeticCoordinatesTransform.pdb
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\obj\x86\Debug\GeodeticCoordinatesTransform.csprojAssemblyReference.cache
+E:\教学资源\测绘编程技术\GeodeticCoordinatesTransform\GeodeticCoordinatesTransform\obj\x86\Debug\GeodeticCoordinatesTransform.csproj.CoreCompileInputs.cache
